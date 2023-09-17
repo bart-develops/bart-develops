@@ -14,8 +14,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bart-develops&hide_border=true&layout=compact&theme=dark" align="center" style="width: 50%" />
+<br/>
+<br/>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bart-develops&hide_border=true&layout=compact&theme=dark" style="width: 50%" />
+</p>
 
 <!--
 **bart-develops/bart-develops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
